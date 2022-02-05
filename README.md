@@ -13,6 +13,10 @@
 
 * Shoutout to https://github.com/berdav for exploit.
 * Only for educational purpose.
+### Variation's:
+1. Online: payload.txt(requires internet connection on victims machine).
+2. Offline: payload2.txt(don't require internet connection on victims machine).
+
 ### Workflow:
 1. Stop storing history, this helps to keep tracks clear from begining.
 2. Creating temporary folder for storing exploit code and compiling it.
