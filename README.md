@@ -1,7 +1,7 @@
-# DawnKit
+# pwnKit
 
 ## About:
-* Title: DawnKit
+* Title: pwnKit
 * Description: Privilege escalation in Unix-like operating systems
 * AUTHOR: drapl0n
 * Version: 1.0
@@ -9,7 +9,7 @@
 * Target: Unix-like operating systems
 * Attackmodes: HID
 
-## DawnKit is Privilege Escalation USB-Rubber-Ducky payload, which exploits CVE-2021-4034 in less than 10sec's and spawns root shell for you.
+## pwnKit is Privilege Escalation USB-Rubber-Ducky payload, which exploits CVE-2021-4034 in less than 10sec's and spawns root shell for you.
 
 * Shoutout to https://github.com/berdav for exploit.
 * Only for educational purpose.
